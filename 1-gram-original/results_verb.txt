@@ -1,0 +1,122 @@
+Results for vocabulary with just verb
+
+CS Results:
+Ground Truth,Prediction,        CI,     Error
+     0.000,     0.001,     0.001,     0.001
+Ground Truth,Prediction,        CI,     Error
+     0.025,     0.026,     0.005,     0.001
+Ground Truth,Prediction,        CI,     Error
+     0.050,     0.051,     0.007,     0.001
+Ground Truth,Prediction,        CI,     Error
+     0.075,     0.068,     0.007,     0.007
+Ground Truth,Prediction,        CI,     Error
+     0.100,     0.099,     0.008,     0.001
+Ground Truth,Prediction,        CI,     Error
+     0.125,     0.118,     0.008,     0.007
+Ground Truth,Prediction,        CI,     Error
+     0.150,     0.147,     0.009,     0.003
+Ground Truth,Prediction,        CI,     Error
+     0.175,     0.172,     0.009,     0.003
+Ground Truth,Prediction,        CI,     Error
+     0.200,     0.202,     0.009,     0.002
+Ground Truth,Prediction,        CI,     Error
+     0.225,     0.220,     0.010,     0.005
+Ground Truth,Prediction,        CI,     Error
+     0.250,     0.245,     0.010,     0.005
+=====================================
+EESS Results:
+Ground Truth,Prediction,        CI,     Error
+     0.000,     0.003,     0.003,     0.003
+Ground Truth,Prediction,        CI,     Error
+     0.025,     0.028,     0.006,     0.003
+Ground Truth,Prediction,        CI,     Error
+     0.050,     0.051,     0.006,     0.001
+Ground Truth,Prediction,        CI,     Error
+     0.075,     0.075,     0.007,     0.000
+Ground Truth,Prediction,        CI,     Error
+     0.100,     0.107,     0.008,     0.007
+Ground Truth,Prediction,        CI,     Error
+     0.125,     0.133,     0.008,     0.008
+Ground Truth,Prediction,        CI,     Error
+     0.150,     0.157,     0.009,     0.007
+Ground Truth,Prediction,        CI,     Error
+     0.175,     0.180,     0.009,     0.005
+Ground Truth,Prediction,        CI,     Error
+     0.200,     0.208,     0.009,     0.008
+Ground Truth,Prediction,        CI,     Error
+     0.225,     0.228,     0.010,     0.003
+Ground Truth,Prediction,        CI,     Error
+     0.250,     0.261,     0.010,     0.011
+=====================================
+Math Results:
+Ground Truth,Prediction,        CI,     Error
+     0.000,     0.000,     0.000,     0.000
+Ground Truth,Prediction,        CI,     Error
+     0.025,     0.020,     0.004,     0.005
+Ground Truth,Prediction,        CI,     Error
+     0.050,     0.041,     0.005,     0.009
+Ground Truth,Prediction,        CI,     Error
+     0.075,     0.069,     0.006,     0.006
+Ground Truth,Prediction,        CI,     Error
+     0.100,     0.091,     0.006,     0.009
+Ground Truth,Prediction,        CI,     Error
+     0.125,     0.119,     0.007,     0.006
+Ground Truth,Prediction,        CI,     Error
+     0.150,     0.143,     0.007,     0.007
+Ground Truth,Prediction,        CI,     Error
+     0.175,     0.170,     0.008,     0.005
+Ground Truth,Prediction,        CI,     Error
+     0.200,     0.191,     0.008,     0.009
+Ground Truth,Prediction,        CI,     Error
+     0.225,     0.214,     0.008,     0.011
+Ground Truth,Prediction,        CI,     Error
+     0.250,     0.249,     0.008,     0.001
+=====================================
+Phys Results:
+Ground Truth,Prediction,        CI,     Error
+     0.000,     0.005,     0.004,     0.005
+Ground Truth,Prediction,        CI,     Error
+     0.025,     0.032,     0.005,     0.007
+Ground Truth,Prediction,        CI,     Error
+     0.050,     0.054,     0.007,     0.004
+Ground Truth,Prediction,        CI,     Error
+     0.075,     0.081,     0.007,     0.006
+Ground Truth,Prediction,        CI,     Error
+     0.100,     0.104,     0.007,     0.004
+Ground Truth,Prediction,        CI,     Error
+     0.125,     0.134,     0.009,     0.009
+Ground Truth,Prediction,        CI,     Error
+     0.150,     0.163,     0.009,     0.013
+Ground Truth,Prediction,        CI,     Error
+     0.175,     0.182,     0.009,     0.007
+Ground Truth,Prediction,        CI,     Error
+     0.200,     0.195,     0.009,     0.005
+Ground Truth,Prediction,        CI,     Error
+     0.225,     0.232,     0.010,     0.007
+Ground Truth,Prediction,        CI,     Error
+     0.250,     0.259,     0.009,     0.009
+=====================================
+Stat Results:
+Ground Truth,Prediction,        CI,     Error
+     0.000,     0.001,     0.001,     0.001
+Ground Truth,Prediction,        CI,     Error
+     0.025,     0.024,     0.005,     0.001
+Ground Truth,Prediction,        CI,     Error
+     0.050,     0.047,     0.006,     0.003
+Ground Truth,Prediction,        CI,     Error
+     0.075,     0.073,     0.007,     0.002
+Ground Truth,Prediction,        CI,     Error
+     0.100,     0.095,     0.007,     0.005
+Ground Truth,Prediction,        CI,     Error
+     0.125,     0.126,     0.007,     0.001
+Ground Truth,Prediction,        CI,     Error
+     0.150,     0.151,     0.008,     0.001
+Ground Truth,Prediction,        CI,     Error
+     0.175,     0.171,     0.008,     0.004
+Ground Truth,Prediction,        CI,     Error
+     0.200,     0.198,     0.009,     0.002
+Ground Truth,Prediction,        CI,     Error
+     0.225,     0.225,     0.009,     0.000
+Ground Truth,Prediction,        CI,     Error
+     0.250,     0.250,     0.009,     0.000
+=====================================
